@@ -1,0 +1,9 @@
+{
+	"name": "adf-lakehouse-iot",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2932ad6f-5497-4497-82e6-197b561ef329",
+		"tenantId": "515cfdf6-d6fc-4340-a3cd-f1693bad6aaf"
+	}
+}
